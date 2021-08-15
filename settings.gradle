@@ -1,0 +1,2 @@
+rootProject.name = "odev3"
+include ':app'
